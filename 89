@@ -1,0 +1,26 @@
+{
+    "name": "Emojis NFT #89",
+    "image": "https://gateway.pinata.cloud/ipfs/QmdRVVWXtF1TUyhyqoKc4T5CmzH1hbJiS8jzZYgHwLKCb2",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Face 1"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Mouth 4"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Eyes 1"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Hair 2"
+        }
+    ]
+}

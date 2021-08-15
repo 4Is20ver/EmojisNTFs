@@ -1,0 +1,26 @@
+{
+    "name": "Emojis NFT #83",
+    "image": "https://gateway.pinata.cloud/ipfs/QmVkEbJ1LmC6EELTptCoZGUyBzj4rP4eWB1ozgYVUE5z1C",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Face 1"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Mouth 1"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Eyes 4"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Hair 2"
+        }
+    ]
+}

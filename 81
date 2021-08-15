@@ -1,0 +1,26 @@
+{
+    "name": "Emojis NFT #81",
+    "image": "https://gateway.pinata.cloud/ipfs/QmQk5Rd8Nc6Q4MEr73Aa8RKCrswt5WNLtpwS1sy1k9ipx2",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Face 1"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Mouth 1"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Eyes 2"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Hair 1"
+        }
+    ]
+}

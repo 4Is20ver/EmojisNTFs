@@ -1,0 +1,26 @@
+{
+    "name": "Emojis NFT #57",
+    "image": "https://gateway.pinata.cloud/ipfs/QmbUe7eWABBsmrtNJz679V1ye9RDApqBnjzGBZiZjuHaKq",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Face 2"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Mouth 1"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Eyes 4"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Hair 3"
+        }
+    ]
+}

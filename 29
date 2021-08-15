@@ -1,0 +1,26 @@
+{
+    "name": "Emojis NFT #29",
+    "image": "https://gateway.pinata.cloud/ipfs/QmdugD4ags3fBrjro9cK6wqnXZsPCzVzkipeAAP51vA8pe",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Face 2"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Mouth 2"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Eyes 1"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Hair 1"
+        }
+    ]
+}

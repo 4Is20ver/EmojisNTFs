@@ -1,0 +1,26 @@
+{
+    "name": "Emojis NFT #60",
+    "image": "https://gateway.pinata.cloud/ipfs/QmcbxtpUV7nJcD6ZHoJ6q7e7qrFk8GiBmk1vxC3nwe2pco",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Face 3"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Mouth 3"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Eyes 3"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Hair 1"
+        }
+    ]
+}

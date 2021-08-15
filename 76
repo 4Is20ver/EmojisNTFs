@@ -1,0 +1,26 @@
+{
+    "name": "Emojis NFT #76",
+    "image": "https://gateway.pinata.cloud/ipfs/QmTgbbdDmPpUVcJqK5JbhK797ZUHEHX4QXgEpyAbyERteA",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Face 4"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Mouth 3"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Eyes 1"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Hair 1"
+        }
+    ]
+}

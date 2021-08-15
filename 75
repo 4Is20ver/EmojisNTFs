@@ -1,0 +1,26 @@
+{
+    "name": "Emojis NFT #75",
+    "image": "https://gateway.pinata.cloud/ipfs/QmRPd6cHeCEhE5njJcv38P7CaB63i7o95ZwEYteRWmbdKF",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Face 2"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Mouth 3"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Eyes 2"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Hair 3"
+        }
+    ]
+}
